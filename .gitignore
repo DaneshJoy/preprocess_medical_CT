@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# VS Code project setting
+.vscode
+
+# My dirs
+/Data*/

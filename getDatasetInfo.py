@@ -104,6 +104,6 @@ if __name__ == "__main__":
 #    Dataset_folder = "3DirCab_Raw"
 #    Dataset_folder = "SRR_ART_Raw"
 #    Dataset_folder = "SRR_NC_Raw"
-    Dataset_folder = "SRR_PV_Raw"
-#    Dataset_folder = "Dataset_Test_Raw"
+#    Dataset_folder = "Dataset_Raw"
+    Dataset_folder = "Dataset_Preprocessed"
     getDatasetInfo(Dataset_folder)
